@@ -1,16 +1,10 @@
+import { Header } from "components/Header/Header";
+import { Events } from "components/Events/Events";
 export const App = () => {
   return (
-    <div
-      style={{
-        height: '100vh',
-        display: 'flex',
-        justifyContent: 'center',
-        alignItems: 'center',
-        fontSize: 40,
-        color: '#010101'
-      }}
-    >
-      SoftRyzen test
+    <div>
+      <Header />
+      <Events />
     </div>
   );
 };

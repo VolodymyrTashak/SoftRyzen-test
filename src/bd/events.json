@@ -1,0 +1,74 @@
+[
+    {
+        "id": 1,
+        "image": "../images/Rectangle 330.png",
+        "action": ["Art", "High"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Galery Opening",
+        "description": "Discover an enchanting evening celebrating the world of art at our exclusive gallery opening."
+    },
+    {
+        "id": 2,
+        "image": "../images/Rectangle-345.png",
+        "action": ["Conference", "Medium"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Innovation Summit",
+        "description": "Engage in a thought-provoking journey of knowledge and collaboration at our Innovation Summit."
+    },
+    {
+        "id": 3,
+        "image": "../images/Rectangle 345.png",
+        "action": ["Workshop", "High"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Empower Your Creativity",
+        "description": "Ignite your creativity and nurture your storytelling skills in our immersive Creative Writing Workshop."
+    },
+    {
+        "id": 4,
+        "image": "../images/Rectangle 346.png",
+        "action": ["Party", "High"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Summer Soiree",
+        "description": "Embrace the tropical vibes and escape to paradise at our Beach Luau Extravaganza."
+    },
+    {
+        "id": 5,
+        "image": "../images/Rectangle 347.png",
+        "action": ["Business", "Medium"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Leadership Conference",
+        "description": "Unlock the secrets of effective leadership at our transformative Success Leadership Conference."
+    },
+    {
+        "id": 6,
+        "image": "../images/Rectangle 348.png",
+        "action": ["Workshop", "Low"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Tech Startup Showcase",
+        "description": "Witness the future of technology as innovative startups showcase their groundbreaking ideas."
+    },
+    {
+        "id": 7,
+        "image": "../images/Rectangle 349.png",
+        "action": ["Music", "High"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Acoustic Garden Concert",
+        "description": "Experience the magic of live music amidst the serene beauty of nature at our Acoustic Garden Concert."
+    },
+    {
+        "id": 8,
+        "image": "../images/Rectangle 350.png",
+        "action": ["Sport", "Low"],
+        "date": 12.07,
+        "location": "Kyiv",
+        "title": "Extreme Adventure Race",
+        "description": "Calling all thrill-seekers! Embark on an adrenaline-pumping journey at our Extreme Adventure Race."
+    }
+]

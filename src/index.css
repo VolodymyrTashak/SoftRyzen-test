@@ -2,10 +2,9 @@
 
 body {
   margin: 0;
-  font-family: 'Poppins', 'Roboto', sans-serif;
+  font-family: 'Poppins', 'Alata', sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  background-image: url(./images/Background.png);
 }
 
 code {
@@ -36,4 +35,35 @@ ul{
 img{
   display: block;
   max-width: 100%;
+}
+
+.container{
+  padding-left: 24px;
+  padding-right: 24px;
+  margin-left: auto;
+  margin-right: auto;
+
+
+  @media screen and (min-width: 480px) {
+      max-width: 480px;
+     
+  }
+
+    @media screen and (min-width: 768px) {
+      max-width: 768px;
+      padding-left: 40px;
+      padding-right: 40px;
+      
+  }
+
+    @media screen and (min-width: 1200px) {
+      max-width: 1200px;
+      padding-left: 80px;
+      padding-right: 80px;
+
+  }
+}
+
+.events {
+  background-image: url(./images/Background.png);
 }
